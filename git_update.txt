@@ -1,0 +1,7 @@
+git add .
+git status
+git commit -m "New commit prboblem no 296"
+git remote -v
+git pull origin main --rebase
+git push origin main
+
