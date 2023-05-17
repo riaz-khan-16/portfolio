@@ -12232,3 +12232,21 @@ pre .code {
 .section-lg {
   padding: 100px 0 !important;
 }
+.project{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-weight: 500;
+}
+.project p{ font-weight: 500;
+
+}
+
+.technology{
+  text-align: left;
+}
+.technology .p1{
+
+  font-weight: 900;
+}
