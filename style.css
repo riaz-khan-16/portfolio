@@ -2028,3 +2028,39 @@ textarea.materialize-textarea {
   .pagination li {width: 25px;margin: 0 5px;}
 
 }
+
+
+
+#home {
+  background-image: url(img/home-img1.jpg);
+  background-position: 100% 100%;
+  background-size: 100% 100%;
+  display: inline;
+  float: left;
+  height: 100vh;
+  position: relative;
+  width: 100%;
+}
+
+
+.home-inner>p {
+  color: #fff;
+  font-size: 15px;
+  margin-top: 70px;
+  margin-bottom: 50px;
+  text-transform: none;
+}
+
+/* .call-to-about {
+  left: 40%;
+  position: absolute;
+} */
+
+nav .brand-logo {
+  position: absolute;
+  color: #fff;
+  display: inline-block;
+  font-size: 20px;
+  padding: 0;
+  text-transform: capitalize;
+}
