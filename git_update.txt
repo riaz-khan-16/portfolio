@@ -1,6 +1,6 @@
 git add .
 git status
-git commit -m "New commit"
+git commit -m "Favi Ico updated"
 git remote -v
 git pull origin main --rebase
 git push origin main
